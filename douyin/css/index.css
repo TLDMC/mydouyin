@@ -82,6 +82,10 @@ html,body{
   width: 65px;
   height: 55px;
 }
+.ones:hover{
+  width: 200px;
+  height: 190px;
+}
 .two-picture{
   float: right;
   position: relative;
